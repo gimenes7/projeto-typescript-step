@@ -1,3 +1,5 @@
+export {};
+
 // --- Nullish Coalescing ---
 type Configuracoes = {
   tema: string | null;

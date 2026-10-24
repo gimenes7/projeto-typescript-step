@@ -1,3 +1,5 @@
+export {};
+
 // src/lacos-modernos.ts
 
 // --- for...of com array ---
