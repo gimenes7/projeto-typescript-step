@@ -1,3 +1,5 @@
+export {};
+
 // --- Enum de Status de Pedido ---
 enum StatusPedido {
   Pendente = "PENDENTE",
